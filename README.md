@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SigmaAman
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C/C++,CSS HTML
+- 🌱 I’m currently learning C/C++,CSS HTML,Javascript
 - 💞️ I’m looking to collaborate on projects related to web dev 
 - 📫 How to reach me ---> mandloiaman87@gmail.com
 <!---
